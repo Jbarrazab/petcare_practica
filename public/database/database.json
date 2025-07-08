@@ -1,0 +1,18 @@
+{
+  "roles": [],
+  "users": [
+    {
+      "id": "ab88"
+    },
+    {
+        
+      "id": "f566",
+      "name": "usuario1",
+      "identidad": "21351",
+      "telefono": "0000",
+      "direccion": "orh425#-65",
+      "contraseña": "987",
+      "rolld": "user"
+    }
+  ]
+}
