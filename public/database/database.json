@@ -1,11 +1,14 @@
 {
-  "roles": [],
-  "users": [
+  "roles": [
     {
-      "id": "ab88"
-    },
+        "user":"user"},
     {
-        
+      "admin": "admin"
+    }
+    ],
+    "user": [
+    {
+
       "id": "f566",
       "name": "usuario1",
       "identidad": "21351",
